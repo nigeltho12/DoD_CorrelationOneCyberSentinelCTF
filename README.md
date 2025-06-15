@@ -87,9 +87,9 @@ The **Cyber Sentinel CTF** was a one-day, high‑stakes cybersecurity competitio
 
 ---
 
-## 🎯 How to Contribute
+## 🤝 Let's Collaborate
 
-Feel free to raise issues or pull requests if you have alternate solutions, corrections, or performance improvements. Thank you for exploring and happy hacking!
+If you're into CTFs, packet analysis, threat hunting, or just love breaking things to understand them — hit me up. I’m always down to team up, exchange ideas, or walk through challenges together.
 
 ---
 
