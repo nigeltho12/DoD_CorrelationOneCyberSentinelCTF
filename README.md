@@ -48,15 +48,6 @@ The **Cyber Sentinel CTF** was a one-day, high‑stakes cybersecurity competitio
 
 ## 🗂️ Repository Structure
 
-CyberSentinelJune2025/
-├── OSINT/
-├── WebSecurity/
-├── Forensics/
-├── Networking/
-├── Malware-ReverseEngineering/
-├── Writeup/
-│ └── CyberSentinel_Writeup.pdf
-├── README.md
 
 
 - Each category folder contains screenshots, scripts, extracted data.
