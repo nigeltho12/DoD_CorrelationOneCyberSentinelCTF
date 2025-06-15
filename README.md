@@ -12,10 +12,22 @@
 
 The **Cyber Sentinel CTF** was a one-day, high‑stakes cybersecurity competition aimed at emerging and seasoned professionals. Key details:
 
-- 👥 **Participants:** ~6,000 from universities, government agencies, private sector teams
-- 🎯 **Rank Tiers:** Top 100 earn medals; top 1,000 receive official placement badges
-- 🏆 **Prizes:** Awarded for overall ranking, challenge category leaders, and newcomer recognition
-- 🎓 **Eligibility:** Open to all; multiple tracks included for students, professionals, and veterans
+- 👥 **Participants:** ~6,000 of cybersecurity enthusiasts from universities, government agencies, and private-sector teams
+- 🏆 **Prizes:** Awarded for overall ranking
+ 
+    🥇 1st Place: $5,000
+  
+    🥈 2nd Place: $2,500
+  
+    🥉 3rd Place: $1,000
+  
+    🎖️ 4th–10th Place: $500 each
+  
+    🎟️ Multiple $300 raffles distributed to active participants
+  
+    💰 Over $15,000 in total prizes awarded
+  
+- 🎓 **Eligibility:** U.S. citizens only, due to DoD sponsorship; targeted toward individuals interested in cybersecurity careers within or supporting the Department of Defense; multiple tracks included for students, professionals, and veterans
 - 📚 **Support Role:** As an **Ambassador**, I helped recruit and mentor participants, organized community practice sessions, and provided day‑of support.
 
 ---
