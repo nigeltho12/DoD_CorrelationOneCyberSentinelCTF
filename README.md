@@ -57,7 +57,7 @@ The **Cyber Sentinel CTF** was a one-day, high‑stakes cybersecurity competitio
 
 ## 📈 Performance Analytics
 
-- **Total Score:** 975 / 1,200 possible  
+- **Total Score:** 975  - 85th Percentile 
 - **Challenge Solves:** 9 completed, 3 attempted  
 - **Progress Visuals:** See `Writeup/ScoreboardStats/` for charts and timelines.
 
