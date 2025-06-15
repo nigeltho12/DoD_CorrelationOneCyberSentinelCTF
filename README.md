@@ -2,7 +2,7 @@
 
 **Username:** Eyeam_Legin  
 **Total Score:** 975 points  
-**Overall Rank:** 738th out of ~6,000 participants  
+**Overall Rank:** 761st out of ~6,000 participants  
 **Date:** June 14, 2025  
 **Organizer:** Correlation One, sponsored by the U.S. Department of Defense  
 
